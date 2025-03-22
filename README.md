@@ -2,18 +2,18 @@
 ![imagem_2025-03-22_151636488](https://github.com/user-attachments/assets/e4c7ce8e-5407-495d-b44e-4ea19c2b73f4)
 
 
-# Teste
-📌Sobre o Projeto
+
+# Sobre o Projeto
 Esta é uma API simples construída com Spring Boot, projetada para demonstrar a estrutura essencial de uma aplicação Java e a criação de endpoints REST. O projeto inclui exemplos práticos de como retornar mensagens de teste por meio de dois endpoints.
 
-🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Java 17+
 
 Spring Boot
 
 Maven
 
-📂# Estrutura do Projeto
+# Estrutura do Projeto
 O código é composto por duas classes principais:
 
 Application.java
@@ -28,7 +28,7 @@ Controlador que gerencia a requisição:
 
 GET /demo → Retorna "Hello, World!"
 
-✅ Pré-requisitos
+# Pré-requisitos
 Antes de rodar a aplicação, garanta que possui instalado:
 
 Java 17 ou superior
@@ -39,7 +39,7 @@ Uma IDE de sua escolha (IntelliJ IDEA, VS Code, etc.)
 
 Postman ou um navegador para testar os endpoints
 
-🚀# Como Executar
+# Como Executar
 Compile e inicie a aplicação.
 
 Acesse o navegador ou Postman e utilize o seguinte endereço:
